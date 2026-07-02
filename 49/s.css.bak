@@ -1,0 +1,19 @@
+﻿body {margin: 0; background-color: #D5D5D5; font-family: 宋体; font-size: 1.1rem}
+a {text-decoration: none; color: #009191}
+a:hover {color: blue; text-decoration: underline}
+a:visited {color: #009191}
+div{text-align: center}
+hr{height: 2px; border: none; border-top: 2px solid #FFFFFF}
+sup{color: red}
+.tb{line-height: 150%; width: 80%; margin: 0px auto; text-align: left; font-size: 1.05rem}
+.td1{font-size: 10.5pt; text-align: center; width: 30%}
+.td2{font-size: 15pt; font-family: 黑体; color: #B10000; height: 30px; text-align: center}
+.t50{font-size: 15pt; font-family: 黑体; color: #B10000; letter-spacing: 1px; height: 50px; text-align: center}
+.jz{text-align: center}
+.zt{font-family: 华文新魏}
+.zhs{font-size: 10.5pt}
+.bh{color: #800000}
+.zs{font-size: 10.5pt; color: #800000}
+.l{font-size: 1.1em}
+.m{font-size: 0.9em; color: #02439C}
+#tj{display: none}
